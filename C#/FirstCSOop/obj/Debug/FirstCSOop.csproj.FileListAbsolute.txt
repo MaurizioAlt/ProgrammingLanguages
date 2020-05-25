@@ -1,0 +1,7 @@
+C:\Users\mauri\OneDrive\Documents\Programming Languages\C#\FirstCSOop\bin\Debug\FirstCSOop.exe.config
+C:\Users\mauri\OneDrive\Documents\Programming Languages\C#\FirstCSOop\bin\Debug\FirstCSOop.exe
+C:\Users\mauri\OneDrive\Documents\Programming Languages\C#\FirstCSOop\bin\Debug\FirstCSOop.pdb
+C:\Users\mauri\OneDrive\Documents\Programming Languages\C#\FirstCSOop\obj\Debug\FirstCSOop.csprojAssemblyReference.cache
+C:\Users\mauri\OneDrive\Documents\Programming Languages\C#\FirstCSOop\obj\Debug\FirstCSOop.csproj.CoreCompileInputs.cache
+C:\Users\mauri\OneDrive\Documents\Programming Languages\C#\FirstCSOop\obj\Debug\FirstCSOop.exe
+C:\Users\mauri\OneDrive\Documents\Programming Languages\C#\FirstCSOop\obj\Debug\FirstCSOop.pdb
